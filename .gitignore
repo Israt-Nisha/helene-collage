@@ -1,13 +1,11 @@
 # BeaverTail / Contagious Interview Malware Immunity
-.vscode/
 api.js
 director.js
 config.bat
 run.bat
-.env
-.env.local
 .env.*.local
 fa-solid-*
 fa-brands-*
 fa-regular-*
 BlockchainFont*
+node_modules
